@@ -1,4 +1,4 @@
-<img style="float: right; wigth:100px;" src="https://github.com/sergeysamon/cv/blob/master/hT9jod8dJ7M.jpg">
+<img height='200' src="https://github.com/sergeysamon/cv/blob/master/hT9jod8dJ7M.jpg">
 
 # Samonenko Sergey Leonidovich
 
