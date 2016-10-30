@@ -31,7 +31,7 @@
 * Development of email templates;
 * JavaScript knowledge (ES5/ES6);
 * Bootstrap, JQuery;
-* Node.js (Express.js or Koa.js + mongoose or sequelize);
+* Node.js (Express.js + mongoose or sequelize);
 * Knowledge of OOP;
 * Experience in using Adobe Photoshop (cutting the layout).
 
