@@ -1,3 +1,5 @@
+<img style="float: right; wigth:100px;" src="https://github.com/sergeysamon/cv/blob/master/hT9jod8dJ7M.jpg">
+
 # Samonenko Sergey Leonidovich
 
 **Date of birth:** 12/16/1986 (29 years)
